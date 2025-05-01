@@ -24,13 +24,9 @@ b development (with
    git clone https://github.com/CFrancis03/ceditr.git
    cd ceditr
    ```
-2. Compile the source code:
+2. Compile the source code with make:
    ```bash
-   gcc -o ceditr ceditr.c -Wall
-   ```
-3. (Optional) Install the binary to `/usr/local/bin` for system-wide access:
-   ```bash
-   sudo cp ceditr /usr/local/bin/
+   make
    ```
 
 ## Usage
