@@ -21,7 +21,7 @@ Ceditr is a lightweight, terminal-based text editor written in C, inspired by th
 ### Build Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ceditr.git
+   git clone https://github.com/cfrancis03/ceditr.git
    cd ceditr
    ```
 2. Compile the source code:
