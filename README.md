@@ -1,4 +1,4 @@
-b development (with # Ceditr
+# Ceditr
 
 Ceditr is a lightweight, terminal-based text editor written in C, inspired by the Kilo editor. It features syntax highlighting for C/C++ files, efficient file editing, and a simple, intuitive interface. Designed for Unix-like systems, Ceditr is perfect for developers who want a minimal yet powerful editing experience.
 
